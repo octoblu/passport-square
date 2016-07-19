@@ -1,6 +1,6 @@
 {
   "name": "passport-square",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "square authentication strategy for Passport.",
   "keywords": [
     "passport",
